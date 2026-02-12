@@ -94,7 +94,7 @@ $$
 Пусть $x=(x_1,\dots,x_n)$, $y=(y_1,\dots,y_n)$. Расстояние Хемминга:
 
 $$
-d_H(x,y)=\#\{\,i:\ x_i\neq y_i\,\}
+d_H(x,y)=\left|\{\,i\in\{1,\dots,n\}:\ x_i\neq y_i\,\}\right|
 =\sum_{i=1}^n \mathbf{1}[x_i\neq y_i].
 $$
 
