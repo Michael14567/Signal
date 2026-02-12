@@ -94,7 +94,8 @@ $$
 Пусть $x=(x_1,\dots,x_n)$, $y=(y_1,\dots,y_n)$. Расстояние Хемминга:
 
 $$
-d_H(x,y)=\#\{i:\,x_i\neq y_i\}=\sum_{i=1}^n \mathbf{1}[x_i\neq y_i].
+d_H(x,y)=\#\{\,i:\ x_i\neq y_i\,\}
+=\sum_{i=1}^n \mathbf{1}[x_i\neq y_i].
 $$
 
 Проверим аксиомы метрики:
