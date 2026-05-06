@@ -275,7 +275,7 @@ $$
 # Запуск программы
 
 ```bash
-python main.py
+python 8hw.py
 ```
 
 ---
