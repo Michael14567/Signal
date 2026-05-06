@@ -148,12 +148,15 @@ $$
 
 Следовательно, код исправляет
 
-$$
-t=\left\lfloor\frac{d_{\min}-1}{2}\right\rfloor
-=
-\left\lfloor\frac{5-1}{2}\right\rfloor
-=2
-$$
+```math
+t = \left\lfloor \frac{d_{\min}-1}{2} \right\rfloor
+```
+
+При \(d_{\min} = 5\):
+
+```math
+t = \left\lfloor \frac{5-1}{2} \right\rfloor = 2.
+```
 
 ошибки.
 
